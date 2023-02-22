@@ -1,0 +1,4 @@
+pdsv-memorytest.c:104:6:vRamCheckContinous	16	static,ignoring_inline_asm
+pdsv-memorytest.c:179:6:vRomCheckContinous	32	static
+pdsv-memorytest.c:230:6:vRamInitialize	32	static
+pdsv-memorytest.c:274:6:vRomInitialize	12	static

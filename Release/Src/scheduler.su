@@ -1,0 +1,2 @@
+scheduler.c:117:13:vSchedulerInitialize	0	static
+scheduler.c:194:13:vSchedulerExecute	16	static

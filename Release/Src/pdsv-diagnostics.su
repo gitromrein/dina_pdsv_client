@@ -1,0 +1,7 @@
+pdsv-diagnostics.c:56:13:vDebugTimer1WCET	0	static
+pdsv-diagnostics.c:91:13:vDebugTimer2Start	0	static
+pdsv-diagnostics.c:103:13:vDebugTimer2Stop	0	static
+pdsv-diagnostics.c:120:6:vDiagnosticsResetErrors	8	static
+pdsv-diagnostics.c:145:6:vDiagnosticsHandleErrors	16	static
+pdsv-diagnostics.c:190:6:vDiagnosticsCheckFirmwareVersion	4	static
+pdsv-diagnostics.c:210:6:vDiagnosticsExport	4	static

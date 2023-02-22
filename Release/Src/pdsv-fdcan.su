@@ -1,0 +1,3 @@
+pdsv-fdcan.c:38:6:vCanCheckTimeout	0	static
+pdsv-fdcan.c:55:6:vCanReceiveFrame	24	static
+pdsv-fdcan.c:114:6:vCanTransmitFrame	24	static

@@ -1,0 +1,7 @@
+pdsv-voltage.c:64:6:vAdcInitializeDmaBuffers	8	static
+pdsv-voltage.c:77:6:vAdcCheckWirebreakage	12	static
+pdsv-voltage.c:222:6:vAdcCheckExtendedWirebreakage	0	static
+pdsv-voltage.c:233:6:vAdcCheckDigitalAnalogCoupling	16	static
+pdsv-voltage.c:338:13:vAdcCheckUnit	0	static
+pdsv-voltage.c:360:6:vAdcFetchValues	48	static
+pdsv-voltage.c:442:6:vAdcCheckVoltage	0	static
