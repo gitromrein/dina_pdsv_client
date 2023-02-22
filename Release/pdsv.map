@@ -1,0 +1,1122 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+                              c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+                              c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                              c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+                              Src/pdsv-parameters.o (memcmp)
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                              Src/pdsv-parameters.o (memcpy)
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                              c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+pxgAdcHardwareBuffer
+                    0x4               Src/pdsv-voltage.o
+rui8gLatchedIpkBufferMaster
+                    0x14              Src/pdsv-ipk.o
+xgSafetyCircuitManagement
+                    0x20              Src/safe/safe-circuits.o
+ui16gSampledInputs  0x2               Src/pdsv-inputs.o
+xgRuntimeParameters
+                    0x84              Src/pdsv-parameters.o
+xgCanMessageRx      0x48              Src/pdsv-fdcan.o
+xgErrorCounters     0x28              Src/pdsv-diagnostics.o
+xgRuntimeParametersCopied
+                    0x84              Src/pdsv-parameters.o
+rui8gHardwareIpkBufferIn
+                    0x14              Src/pdsv-ipk.o
+xgReceivedParameters
+                    0x240             Src/pdsv-parameters.o
+xgRuntimeState      0x9c              Src/pdsv-diagnostics.o
+pxgAdcSoftwareBuffer
+                    0x4               Src/pdsv-voltage.o
+xgHardwareErrors    0xb               Src/pdsv-diagnostics.o
+rui8gLatchedIpkBufferSlave
+                    0x14              Src/pdsv-ipk.o
+rui8gHardwareIpkBufferOut
+                    0x14              Src/pdsv-ipk.o
+xgImkRx             0x8               Src/pdsv-fdcan.o
+xSchedulerBlock     0x14              Src/scheduler.o
+xgImkTx             0x8               Src/pdsv-fdcan.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x7c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000        0x0 Src/contract.o
+ .data          0x0000000000000000        0x0 Src/contract.o
+ .bss           0x0000000000000000        0x0 Src/contract.o
+ .text.onAssert__
+                0x0000000000000000       0x10 Src/contract.o
+ .comment       0x0000000000000000       0x54 Src/contract.o
+ .ARM.attributes
+                0x0000000000000000       0x34 Src/contract.o
+ .text          0x0000000000000000        0x0 Src/helpers.o
+ .data          0x0000000000000000        0x0 Src/helpers.o
+ .bss           0x0000000000000000        0x0 Src/helpers.o
+ .text.vWaitCycles
+                0x0000000000000000       0x14 Src/helpers.o
+ .text.ui32ConvertToBigEndian
+                0x0000000000000000        0x4 Src/helpers.o
+ .text.ui32ConvertToBcd
+                0x0000000000000000       0x84 Src/helpers.o
+ .text          0x0000000000000000        0x0 Src/main.o
+ .data          0x0000000000000000        0x0 Src/main.o
+ .bss           0x0000000000000000        0x0 Src/main.o
+ .data.pvSafetyRequirementSpecifications
+                0x0000000000000000       0x7c Src/main.o
+ .text          0x0000000000000000        0x0 Src/pdsv-diagnostics.o
+ .data          0x0000000000000000        0x0 Src/pdsv-diagnostics.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-diagnostics.o
+ .text.vDiagnosticsResetErrors
+                0x0000000000000000       0x28 Src/pdsv-diagnostics.o
+ .text          0x0000000000000000        0x0 Src/pdsv-fdcan.o
+ .data          0x0000000000000000        0x0 Src/pdsv-fdcan.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-fdcan.o
+ .text          0x0000000000000000        0x0 Src/pdsv-hardware.o
+ .data          0x0000000000000000        0x0 Src/pdsv-hardware.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-hardware.o
+ .text.vHardwareCheckCaptureUnit
+                0x0000000000000000       0x50 Src/pdsv-hardware.o
+ .text.vHardwareCheckInitialFlags
+                0x0000000000000000       0x18 Src/pdsv-hardware.o
+ .text.vHardwareCheckTimerMonitor
+                0x0000000000000000       0x2c Src/pdsv-hardware.o
+ .text.HRTIM_Master_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIMA_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIMB_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIMC_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIMD_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIME_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIM_FLT_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text.HRTIM_TIMF_IRQHandler
+                0x0000000000000000        0x8 Src/pdsv-hardware.o
+ .text          0x0000000000000000        0x0 Src/pdsv-inputs.o
+ .data          0x0000000000000000        0x0 Src/pdsv-inputs.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-inputs.o
+ .text.vInputCheckAsynchronous
+                0x0000000000000000       0x40 Src/pdsv-inputs.o
+ .text.vInputCheckDynamic
+                0x0000000000000000       0xac Src/pdsv-inputs.o
+ .text          0x0000000000000000        0x0 Src/pdsv-ipk.o
+ .data          0x0000000000000000        0x0 Src/pdsv-ipk.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-ipk.o
+ .text          0x0000000000000000        0x0 Src/pdsv-memorytest.o
+ .data          0x0000000000000000        0x0 Src/pdsv-memorytest.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-memorytest.o
+ .text          0x0000000000000000        0x0 Src/pdsv-parameters.o
+ .data          0x0000000000000000        0x0 Src/pdsv-parameters.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-parameters.o
+ .text.vLoadDebugParameters
+                0x0000000000000000       0xac Src/pdsv-parameters.o
+ .bss.ui16DebugCalculatedChecksum
+                0x0000000000000000        0x2 Src/pdsv-parameters.o
+ .text          0x0000000000000000        0x0 Src/pdsv-voltage.o
+ .data          0x0000000000000000        0x0 Src/pdsv-voltage.o
+ .bss           0x0000000000000000        0x0 Src/pdsv-voltage.o
+ .text.vAdcCheckUnit
+                0x0000000000000000       0x34 Src/pdsv-voltage.o
+ .text          0x0000000000000000        0x0 Src/scheduler.o
+ .data          0x0000000000000000        0x0 Src/scheduler.o
+ .bss           0x0000000000000000        0x0 Src/scheduler.o
+ .text          0x0000000000000000        0x0 Src/safe/safe-circuits.o
+ .data          0x0000000000000000        0x0 Src/safe/safe-circuits.o
+ .bss           0x0000000000000000        0x0 Src/safe/safe-circuits.o
+ .text          0x0000000000000000        0x0 Src/safe/safe-speed.o
+ .data          0x0000000000000000        0x0 Src/safe/safe-speed.o
+ .bss           0x0000000000000000        0x0 Src/safe/safe-speed.o
+ .text.vDirectionCheckRotationSwitch
+                0x0000000000000000       0x8c Src/safe/safe-speed.o
+ .text.vSpeedCheck1500Hz
+                0x0000000000000000       0x48 Src/safe/safe-speed.o
+ .text.vAccelerationProcess
+                0x0000000000000000        0x4 Src/safe/safe-speed.o
+ .text          0x0000000000000000        0x0 Src/safe/safe-standstill.o
+ .data          0x0000000000000000        0x0 Src/safe/safe-standstill.o
+ .bss           0x0000000000000000        0x0 Src/safe/safe-standstill.o
+ .text.vEmkCheckSingle
+                0x0000000000000000       0x54 Src/safe/safe-standstill.o
+ .text          0x0000000000000000       0x14 Startup/startup_stm32g473cetx.o
+ .data          0x0000000000000000        0x0 Startup/startup_stm32g473cetx.o
+ .bss           0x0000000000000000        0x0 Startup/startup_stm32g473cetx.o
+ .text.Default_Handler
+                0x0000000000000000        0x2 Startup/startup_stm32g473cetx.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x2 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x32 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000020000 xrw
+FLASH            0x0000000008000000 0x0000000000010000 xr
+ROMCOPY          0x0000000008010000 0x0000000000010000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD Src/contract.o
+LOAD Src/helpers.o
+LOAD Src/main.o
+LOAD Src/pdsv-diagnostics.o
+LOAD Src/pdsv-fdcan.o
+LOAD Src/pdsv-hardware.o
+LOAD Src/pdsv-inputs.o
+LOAD Src/pdsv-ipk.o
+LOAD Src/pdsv-memorytest.o
+LOAD Src/pdsv-parameters.o
+LOAD Src/pdsv-voltage.o
+LOAD Src/scheduler.o
+LOAD Src/safe/safe-circuits.o
+LOAD Src/safe/safe-speed.o
+LOAD Src/safe/safe-standstill.o
+LOAD Startup/startup_stm32g473cetx.o
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020020000                _estack = 0x20020000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+                0x0000000008010000                _endFlash = (ORIGIN (FLASH) + LENGTH (FLASH))
+                0x0000000008000000                _startFlash = ORIGIN (FLASH)
+                0x0000000008010000                _copyFlash = ORIGIN (ROMCOPY)
+                0x0000000000010000                _sizeFlash = LENGTH (FLASH)
+                0x0000000020000000                _startRam = ORIGIN (RAM)
+
+.isr_vector     0x0000000008000000      0x1d8
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1d8 Startup/startup_stm32g473cetx.o
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001d8                . = ALIGN (0x4)
+
+.text           0x00000000080001d8     0x5a34
+                0x00000000080001d8                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001d8       0x40 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.text*)
+ .text.ui16GenerateCRC16
+                0x0000000008000218       0x78 Src/helpers.o
+                0x0000000008000218                ui16GenerateCRC16
+ .text.startup.main
+                0x0000000008000290       0x24 Src/main.o
+                0x0000000008000290                main
+ .text.vDebugTimer1WCET
+                0x00000000080002b4        0x4 Src/pdsv-diagnostics.o
+                0x00000000080002b4                vDebugTimer1WCET
+ .text.vDebugTimer2Start
+                0x00000000080002b8        0x4 Src/pdsv-diagnostics.o
+                0x00000000080002b8                vDebugTimer2Start
+ .text.vDebugTimer2Stop
+                0x00000000080002bc        0x4 Src/pdsv-diagnostics.o
+                0x00000000080002bc                vDebugTimer2Stop
+ .text.vDiagnosticsHandleErrors
+                0x00000000080002c0       0xc8 Src/pdsv-diagnostics.o
+                0x00000000080002c0                vDiagnosticsHandleErrors
+ .text.vDiagnosticsCheckFirmwareVersion
+                0x0000000008000388       0x48 Src/pdsv-diagnostics.o
+                0x0000000008000388                vDiagnosticsCheckFirmwareVersion
+ .text.vDiagnosticsExport
+                0x00000000080003d0       0xc8 Src/pdsv-diagnostics.o
+                0x00000000080003d0                vDiagnosticsExport
+ .text.vCanCheckTimeout
+                0x0000000008000498       0x28 Src/pdsv-fdcan.o
+                0x0000000008000498                vCanCheckTimeout
+ .text.vCanReceiveFrame
+                0x00000000080004c0       0xf0 Src/pdsv-fdcan.o
+                0x00000000080004c0                vCanReceiveFrame
+ .text.vCanTransmitFrame
+                0x00000000080005b0      0x178 Src/pdsv-fdcan.o
+                0x00000000080005b0                vCanTransmitFrame
+ .text.vHardwareExecuteErrorLoop
+                0x0000000008000728       0x18 Src/pdsv-hardware.o
+                0x0000000008000728                vHardwareExecuteErrorLoop
+ .text.vHardwareCheckMainMonitor
+                0x0000000008000740       0x54 Src/pdsv-hardware.o
+                0x0000000008000740                vHardwareCheckMainMonitor
+ .text.vHardwareCheckUnexpectedInterrupt
+                0x0000000008000794        0x8 Src/pdsv-hardware.o
+                0x0000000008000794                vHardwareCheckUnexpectedInterrupt
+ .text.vHardwareInitialize
+                0x000000000800079c      0x6f0 Src/pdsv-hardware.o
+                0x000000000800079c                vHardwareInitialize
+ .text.TIM1_UP_TIM16_IRQHandler
+                0x0000000008000e8c       0x74 Src/pdsv-hardware.o
+                0x0000000008000e8c                TIM1_UP_TIM16_IRQHandler
+ .text.TIM2_IRQHandler
+                0x0000000008000f00       0x90 Src/pdsv-hardware.o
+                0x0000000008000f00                TIM2_IRQHandler
+ .text.USART1_IRQHandler
+                0x0000000008000f90       0xac Src/pdsv-hardware.o
+                0x0000000008000f90                USART1_IRQHandler
+ .text.FDCAN1_intr0_IRQHandler
+                0x000000000800103c      0x5f0 Src/pdsv-hardware.o
+                0x000000000800103c                FDCAN1_intr0_IRQHandler
+ .text.DMA1_Channel1_IRQHandler
+                0x000000000800162c       0x50 Src/pdsv-hardware.o
+                0x000000000800162c                DMA1_Channel1_IRQHandler
+ .text.NMI_Handler
+                0x000000000800167c        0x8 Src/pdsv-hardware.o
+                0x000000000800167c                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000008001684        0x8 Src/pdsv-hardware.o
+                0x0000000008001684                HardFault_Handler
+ .text.MemManage_Handler
+                0x000000000800168c        0x8 Src/pdsv-hardware.o
+                0x000000000800168c                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008001694        0x8 Src/pdsv-hardware.o
+                0x0000000008001694                BusFault_Handler
+ .text.UsageFault_Handler
+                0x000000000800169c        0x8 Src/pdsv-hardware.o
+                0x000000000800169c                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080016a4        0x8 Src/pdsv-hardware.o
+                0x00000000080016a4                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080016ac        0x8 Src/pdsv-hardware.o
+                0x00000000080016ac                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000000080016b4        0x8 Src/pdsv-hardware.o
+                0x00000000080016b4                PendSV_Handler
+ .text.SysTick_Handler
+                0x00000000080016bc        0x8 Src/pdsv-hardware.o
+                0x00000000080016bc                SysTick_Handler
+ .text.WWDG_IRQHandler
+                0x00000000080016c4        0x8 Src/pdsv-hardware.o
+                0x00000000080016c4                WWDG_IRQHandler
+ .text.PVD_PVM_IRQHandler
+                0x00000000080016cc        0x8 Src/pdsv-hardware.o
+                0x00000000080016cc                PVD_PVM_IRQHandler
+ .text.RTC_TAMP_LSECSS_IRQHandler
+                0x00000000080016d4        0x8 Src/pdsv-hardware.o
+                0x00000000080016d4                RTC_TAMP_LSECSS_IRQHandler
+ .text.RTC_WKUP_IRQHandler
+                0x00000000080016dc        0x8 Src/pdsv-hardware.o
+                0x00000000080016dc                RTC_WKUP_IRQHandler
+ .text.FLASH_IRQHandler
+                0x00000000080016e4        0x8 Src/pdsv-hardware.o
+                0x00000000080016e4                FLASH_IRQHandler
+ .text.RCC_IRQHandler
+                0x00000000080016ec        0x8 Src/pdsv-hardware.o
+                0x00000000080016ec                RCC_IRQHandler
+ .text.EXTI0_IRQHandler
+                0x00000000080016f4        0x8 Src/pdsv-hardware.o
+                0x00000000080016f4                EXTI0_IRQHandler
+ .text.EXTI1_IRQHandler
+                0x00000000080016fc        0x8 Src/pdsv-hardware.o
+                0x00000000080016fc                EXTI1_IRQHandler
+ .text.EXTI2_IRQHandler
+                0x0000000008001704        0x8 Src/pdsv-hardware.o
+                0x0000000008001704                EXTI2_IRQHandler
+ .text.EXTI3_IRQHandler
+                0x000000000800170c        0x8 Src/pdsv-hardware.o
+                0x000000000800170c                EXTI3_IRQHandler
+ .text.EXTI4_IRQHandler
+                0x0000000008001714        0x8 Src/pdsv-hardware.o
+                0x0000000008001714                EXTI4_IRQHandler
+ .text.DMA1_Channel2_IRQHandler
+                0x000000000800171c        0x8 Src/pdsv-hardware.o
+                0x000000000800171c                DMA1_Channel2_IRQHandler
+ .text.DMA1_Channel3_IRQHandler
+                0x0000000008001724        0x8 Src/pdsv-hardware.o
+                0x0000000008001724                DMA1_Channel3_IRQHandler
+ .text.DMA1_Channel4_IRQHandler
+                0x000000000800172c        0x8 Src/pdsv-hardware.o
+                0x000000000800172c                DMA1_Channel4_IRQHandler
+ .text.DMA1_Channel5_IRQHandler
+                0x0000000008001734        0x8 Src/pdsv-hardware.o
+                0x0000000008001734                DMA1_Channel5_IRQHandler
+ .text.DMA1_Channel6_IRQHandler
+                0x000000000800173c        0x8 Src/pdsv-hardware.o
+                0x000000000800173c                DMA1_Channel6_IRQHandler
+ .text.DMA1_Channel7_IRQHandler
+                0x0000000008001744        0x8 Src/pdsv-hardware.o
+                0x0000000008001744                DMA1_Channel7_IRQHandler
+ .text.ADC1_2_IRQHandler
+                0x000000000800174c        0x8 Src/pdsv-hardware.o
+                0x000000000800174c                ADC1_2_IRQHandler
+ .text.USB_HP_IRQHandler
+                0x0000000008001754        0x8 Src/pdsv-hardware.o
+                0x0000000008001754                USB_HP_IRQHandler
+ .text.USB_LP_IRQHandler
+                0x000000000800175c        0x8 Src/pdsv-hardware.o
+                0x000000000800175c                USB_LP_IRQHandler
+ .text.FDCAN1_intr1_IRQHandler
+                0x0000000008001764        0x8 Src/pdsv-hardware.o
+                0x0000000008001764                FDCAN1_intr1_IRQHandler
+ .text.EXTI9_5_IRQHandler
+                0x000000000800176c        0x8 Src/pdsv-hardware.o
+                0x000000000800176c                EXTI9_5_IRQHandler
+ .text.TIM1_BRK_TIM15_IRQHandler
+                0x0000000008001774        0x8 Src/pdsv-hardware.o
+                0x0000000008001774                TIM1_BRK_TIM15_IRQHandler
+ .text.TIM1_TRG_COM_TIM17_IRQHandler
+                0x000000000800177c        0x8 Src/pdsv-hardware.o
+                0x000000000800177c                TIM1_TRG_COM_TIM17_IRQHandler
+ .text.TIM1_CC_IRQHandler
+                0x0000000008001784        0x8 Src/pdsv-hardware.o
+                0x0000000008001784                TIM1_CC_IRQHandler
+ .text.TIM3_IRQHandler
+                0x000000000800178c        0x8 Src/pdsv-hardware.o
+                0x000000000800178c                TIM3_IRQHandler
+ .text.TIM4_IRQHandler
+                0x0000000008001794        0x8 Src/pdsv-hardware.o
+                0x0000000008001794                TIM4_IRQHandler
+ .text.I2C1_EV_IRQHandler
+                0x000000000800179c        0x8 Src/pdsv-hardware.o
+                0x000000000800179c                I2C1_EV_IRQHandler
+ .text.I2C1_ER_IRQHandler
+                0x00000000080017a4        0x8 Src/pdsv-hardware.o
+                0x00000000080017a4                I2C1_ER_IRQHandler
+ .text.I2C2_EV_IRQHandler
+                0x00000000080017ac        0x8 Src/pdsv-hardware.o
+                0x00000000080017ac                I2C2_EV_IRQHandler
+ .text.I2C2_ER_IRQHandler
+                0x00000000080017b4        0x8 Src/pdsv-hardware.o
+                0x00000000080017b4                I2C2_ER_IRQHandler
+ .text.SPI1_IRQHandler
+                0x00000000080017bc        0x8 Src/pdsv-hardware.o
+                0x00000000080017bc                SPI1_IRQHandler
+ .text.SPI2_IRQHandler
+                0x00000000080017c4        0x8 Src/pdsv-hardware.o
+                0x00000000080017c4                SPI2_IRQHandler
+ .text.USART2_IRQHandler
+                0x00000000080017cc        0x8 Src/pdsv-hardware.o
+                0x00000000080017cc                USART2_IRQHandler
+ .text.USART3_IRQHandler
+                0x00000000080017d4        0x8 Src/pdsv-hardware.o
+                0x00000000080017d4                USART3_IRQHandler
+ .text.EXTI15_10_IRQHandler
+                0x00000000080017dc        0x8 Src/pdsv-hardware.o
+                0x00000000080017dc                EXTI15_10_IRQHandler
+ .text.RTC_Alarm_IRQHandler
+                0x00000000080017e4        0x8 Src/pdsv-hardware.o
+                0x00000000080017e4                RTC_Alarm_IRQHandler
+ .text.USBWakeUp_IRQHandler
+                0x00000000080017ec        0x8 Src/pdsv-hardware.o
+                0x00000000080017ec                USBWakeUp_IRQHandler
+ .text.TIM8_BRK_IRQHandler
+                0x00000000080017f4        0x8 Src/pdsv-hardware.o
+                0x00000000080017f4                TIM8_BRK_IRQHandler
+ .text.TIM8_UP_IRQHandler
+                0x00000000080017fc        0x8 Src/pdsv-hardware.o
+                0x00000000080017fc                TIM8_UP_IRQHandler
+ .text.TIM8_TRG_COM_IRQHandler
+                0x0000000008001804        0x8 Src/pdsv-hardware.o
+                0x0000000008001804                TIM8_TRG_COM_IRQHandler
+ .text.TIM8_CC_IRQHandler
+                0x000000000800180c        0x8 Src/pdsv-hardware.o
+                0x000000000800180c                TIM8_CC_IRQHandler
+ .text.ADC3_IRQHandler
+                0x0000000008001814        0x8 Src/pdsv-hardware.o
+                0x0000000008001814                ADC3_IRQHandler
+ .text.FMC_IRQHandler
+                0x000000000800181c        0x8 Src/pdsv-hardware.o
+                0x000000000800181c                FMC_IRQHandler
+ .text.LPTIM1_IRQHandler
+                0x0000000008001824        0x8 Src/pdsv-hardware.o
+                0x0000000008001824                LPTIM1_IRQHandler
+ .text.TIM5_IRQHandler
+                0x000000000800182c        0x8 Src/pdsv-hardware.o
+                0x000000000800182c                TIM5_IRQHandler
+ .text.SPI3_IRQHandler
+                0x0000000008001834        0x8 Src/pdsv-hardware.o
+                0x0000000008001834                SPI3_IRQHandler
+ .text.UART4_IRQHandler
+                0x000000000800183c        0x8 Src/pdsv-hardware.o
+                0x000000000800183c                UART4_IRQHandler
+ .text.UART5_IRQHandler
+                0x0000000008001844        0x8 Src/pdsv-hardware.o
+                0x0000000008001844                UART5_IRQHandler
+ .text.TIM6_DAC_IRQHandler
+                0x000000000800184c        0x8 Src/pdsv-hardware.o
+                0x000000000800184c                TIM6_DAC_IRQHandler
+ .text.TIM7_DAC_IRQHandler
+                0x0000000008001854        0x8 Src/pdsv-hardware.o
+                0x0000000008001854                TIM7_DAC_IRQHandler
+ .text.DMA2_Channel1_IRQHandler
+                0x000000000800185c        0x8 Src/pdsv-hardware.o
+                0x000000000800185c                DMA2_Channel1_IRQHandler
+ .text.DMA2_Channel2_IRQHandler
+                0x0000000008001864        0x8 Src/pdsv-hardware.o
+                0x0000000008001864                DMA2_Channel2_IRQHandler
+ .text.DMA2_Channel3_IRQHandler
+                0x000000000800186c        0x8 Src/pdsv-hardware.o
+                0x000000000800186c                DMA2_Channel3_IRQHandler
+ .text.DMA2_Channel4_IRQHandler
+                0x0000000008001874        0x8 Src/pdsv-hardware.o
+                0x0000000008001874                DMA2_Channel4_IRQHandler
+ .text.DMA2_Channel5_IRQHandler
+                0x000000000800187c        0x8 Src/pdsv-hardware.o
+                0x000000000800187c                DMA2_Channel5_IRQHandler
+ .text.ADC4_IRQHandler
+                0x0000000008001884        0x8 Src/pdsv-hardware.o
+                0x0000000008001884                ADC4_IRQHandler
+ .text.ADC5_IRQHandler
+                0x000000000800188c        0x8 Src/pdsv-hardware.o
+                0x000000000800188c                ADC5_IRQHandler
+ .text.UCPD1_IRQHandler
+                0x0000000008001894        0x8 Src/pdsv-hardware.o
+                0x0000000008001894                UCPD1_IRQHandler
+ .text.COMP1_2_3_IRQHandler
+                0x000000000800189c        0x8 Src/pdsv-hardware.o
+                0x000000000800189c                COMP1_2_3_IRQHandler
+ .text.COMP4_5_6_IRQHandler
+                0x00000000080018a4        0x8 Src/pdsv-hardware.o
+                0x00000000080018a4                COMP4_5_6_IRQHandler
+ .text.COMP7_IRQHandler
+                0x00000000080018ac        0x8 Src/pdsv-hardware.o
+                0x00000000080018ac                COMP7_IRQHandler
+ .text.CRS_IRQHandler
+                0x00000000080018b4        0x8 Src/pdsv-hardware.o
+                0x00000000080018b4                CRS_IRQHandler
+ .text.SAI1_IRQHandler
+                0x00000000080018bc        0x8 Src/pdsv-hardware.o
+                0x00000000080018bc                SAI1_IRQHandler
+ .text.TIM20_BRK_IRQHandler
+                0x00000000080018c4        0x8 Src/pdsv-hardware.o
+                0x00000000080018c4                TIM20_BRK_IRQHandler
+ .text.TIM20_UP_IRQHandler
+                0x00000000080018cc        0x8 Src/pdsv-hardware.o
+                0x00000000080018cc                TIM20_UP_IRQHandler
+ .text.TIM20_TRG_COM_IRQHandler
+                0x00000000080018d4        0x8 Src/pdsv-hardware.o
+                0x00000000080018d4                TIM20_TRG_COM_IRQHandler
+ .text.TIM20_CC_IRQHandler
+                0x00000000080018dc        0x8 Src/pdsv-hardware.o
+                0x00000000080018dc                TIM20_CC_IRQHandler
+ .text.FPU_IRQHandler
+                0x00000000080018e4        0x8 Src/pdsv-hardware.o
+                0x00000000080018e4                FPU_IRQHandler
+ .text.I2C4_EV_IRQHandler
+                0x00000000080018ec        0x8 Src/pdsv-hardware.o
+                0x00000000080018ec                I2C4_EV_IRQHandler
+ .text.I2C4_ER_IRQHandler
+                0x00000000080018f4        0x8 Src/pdsv-hardware.o
+                0x00000000080018f4                I2C4_ER_IRQHandler
+ .text.SPI4_IRQHandler
+                0x00000000080018fc        0x8 Src/pdsv-hardware.o
+                0x00000000080018fc                SPI4_IRQHandler
+ .text.AES_IRQHandler
+                0x0000000008001904        0x8 Src/pdsv-hardware.o
+                0x0000000008001904                AES_IRQHandler
+ .text.FDCAN2_intr0_IRQHandler
+                0x000000000800190c        0x8 Src/pdsv-hardware.o
+                0x000000000800190c                FDCAN2_intr0_IRQHandler
+ .text.FDCAN2_intr1_IRQHandler
+                0x0000000008001914        0x8 Src/pdsv-hardware.o
+                0x0000000008001914                FDCAN2_intr1_IRQHandler
+ .text.FDCAN3_intr0_IRQHandler
+                0x000000000800191c        0x8 Src/pdsv-hardware.o
+                0x000000000800191c                FDCAN3_intr0_IRQHandler
+ .text.FDCAN3_intr1_IRQHandler
+                0x0000000008001924        0x8 Src/pdsv-hardware.o
+                0x0000000008001924                FDCAN3_intr1_IRQHandler
+ .text.RNG_IRQHandler
+                0x000000000800192c        0x8 Src/pdsv-hardware.o
+                0x000000000800192c                RNG_IRQHandler
+ .text.LPUART1_IRQHandler
+                0x0000000008001934        0x8 Src/pdsv-hardware.o
+                0x0000000008001934                LPUART1_IRQHandler
+ .text.I2C3_EV_IRQHandler
+                0x000000000800193c        0x8 Src/pdsv-hardware.o
+                0x000000000800193c                I2C3_EV_IRQHandler
+ .text.I2C3_ER_IRQHandler
+                0x0000000008001944        0x8 Src/pdsv-hardware.o
+                0x0000000008001944                I2C3_ER_IRQHandler
+ .text.DMAMUX_OVR_IRQHandler
+                0x000000000800194c        0x8 Src/pdsv-hardware.o
+                0x000000000800194c                DMAMUX_OVR_IRQHandler
+ .text.QUADSPI_IRQHandler
+                0x0000000008001954        0x8 Src/pdsv-hardware.o
+                0x0000000008001954                QUADSPI_IRQHandler
+ .text.DMA1_Channel8_IRQHandler
+                0x000000000800195c        0x8 Src/pdsv-hardware.o
+                0x000000000800195c                DMA1_Channel8_IRQHandler
+ .text.DMA2_Channel6_IRQHandler
+                0x0000000008001964        0x8 Src/pdsv-hardware.o
+                0x0000000008001964                DMA2_Channel6_IRQHandler
+ .text.DMA2_Channel7_IRQHandler
+                0x000000000800196c        0x8 Src/pdsv-hardware.o
+                0x000000000800196c                DMA2_Channel7_IRQHandler
+ .text.DMA2_Channel8_IRQHandler
+                0x0000000008001974        0x8 Src/pdsv-hardware.o
+                0x0000000008001974                DMA2_Channel8_IRQHandler
+ .text.CORDIC_IRQHandler
+                0x000000000800197c        0x8 Src/pdsv-hardware.o
+                0x000000000800197c                CORDIC_IRQHandler
+ .text.FMAC_IRQHandler
+                0x0000000008001984        0x8 Src/pdsv-hardware.o
+                0x0000000008001984                FMAC_IRQHandler
+ .text.vInputCheckPort
+                0x000000000800198c      0x190 Src/pdsv-inputs.o
+                0x000000000800198c                vInputCheckPort
+ .text.vInputSample
+                0x0000000008001b1c      0x180 Src/pdsv-inputs.o
+                0x0000000008001b1c                vInputSample
+ .text.vIpkClearLatchBuffers
+                0x0000000008001c9c       0x24 Src/pdsv-ipk.o
+                0x0000000008001c9c                vIpkClearLatchBuffers
+ .text.vIpkSaveLatchBuffer
+                0x0000000008001cc0       0x2c Src/pdsv-ipk.o
+                0x0000000008001cc0                vIpkSaveLatchBuffer
+ .text.vIpkCheckTimeout
+                0x0000000008001cec       0x28 Src/pdsv-ipk.o
+                0x0000000008001cec                vIpkCheckTimeout
+ .text.vIpkSwapBuffers
+                0x0000000008001d14       0xbc Src/pdsv-ipk.o
+                0x0000000008001d14                vIpkSwapBuffers
+ .text.vRamCheckContinous
+                0x0000000008001dd0       0xe4 Src/pdsv-memorytest.o
+                0x0000000008001dd0                vRamCheckContinous
+ .text.vRomCheckContinous
+                0x0000000008001eb4       0x74 Src/pdsv-memorytest.o
+                0x0000000008001eb4                vRomCheckContinous
+ .text.vRamInitialize
+                0x0000000008001f28       0x7c Src/pdsv-memorytest.o
+                0x0000000008001f28                vRamInitialize
+ .text.vRomInitialize
+                0x0000000008001fa4       0x68 Src/pdsv-memorytest.o
+                0x0000000008001fa4                vRomInitialize
+ .text.vParameterCheckComplete
+                0x000000000800200c       0x34 Src/pdsv-parameters.o
+                0x000000000800200c                vParameterCheckComplete
+ .text.vParameterCheckExchangedChecksum
+                0x0000000008002040       0x48 Src/pdsv-parameters.o
+                0x0000000008002040                vParameterCheckExchangedChecksum
+ .text.vParameterCheckDesignerChecksum
+                0x0000000008002088       0x38 Src/pdsv-parameters.o
+                0x0000000008002088                vParameterCheckDesignerChecksum
+ .text.vParameterCheckCopies
+                0x00000000080020c0       0x64 Src/pdsv-parameters.o
+                0x00000000080020c0                vParameterCheckCopies
+ .text.vParameterCalculateDncoFrequencies
+                0x0000000008002124      0x158 Src/pdsv-parameters.o
+                0x0000000008002124                vParameterCalculateDncoFrequencies
+ .text.vParameterCheckPlausibility
+                0x000000000800227c      0x964 Src/pdsv-parameters.o
+                0x000000000800227c                vParameterCheckPlausibility
+ .text.vAdcInitializeDmaBuffers
+                0x0000000008002be0       0x2c Src/pdsv-voltage.o
+                0x0000000008002be0                vAdcInitializeDmaBuffers
+ .text.vAdcCheckWirebreakage
+                0x0000000008002c0c      0x1fc Src/pdsv-voltage.o
+                0x0000000008002c0c                vAdcCheckWirebreakage
+ .text.vAdcCheckExtendedWirebreakage
+                0x0000000008002e08        0x8 Src/pdsv-voltage.o
+                0x0000000008002e08                vAdcCheckExtendedWirebreakage
+ .text.vAdcCheckDigitalAnalogCoupling
+                0x0000000008002e10       0xf8 Src/pdsv-voltage.o
+                0x0000000008002e10                vAdcCheckDigitalAnalogCoupling
+ .text.vAdcFetchValues
+                0x0000000008002f08      0x134 Src/pdsv-voltage.o
+                0x0000000008002f08                vAdcFetchValues
+ .text.vAdcCheckVoltage
+                0x000000000800303c       0xb4 Src/pdsv-voltage.o
+                0x000000000800303c                vAdcCheckVoltage
+ .text.vSchedulerInitialize
+                0x00000000080030f0       0x2c Src/scheduler.o
+                0x00000000080030f0                vSchedulerInitialize
+ .text.vSchedulerExecute
+                0x000000000800311c      0x124 Src/scheduler.o
+                0x000000000800311c                vSchedulerExecute
+ .text.vSafetyCircuitResetManagement
+                0x0000000008003240       0x14 Src/safe/safe-circuits.o
+                0x0000000008003240                vSafetyCircuitResetManagement
+ .text.vSafetyCircuitCheckCrosscircuit
+                0x0000000008003254      0x174 Src/safe/safe-circuits.o
+                0x0000000008003254                vSafetyCircuitCheckCrosscircuit
+ .text.vSafetyCircuitExecute
+                0x00000000080033c8      0x344 Src/safe/safe-circuits.o
+                0x00000000080033c8                vSafetyCircuitExecute
+ .text.vTwohandCircuitExecute
+                0x000000000800370c       0xc4 Src/safe/safe-circuits.o
+                0x000000000800370c                vTwohandCircuitExecute
+ .text.vSpeedCheckPhase
+                0x00000000080037d0       0xf4 Src/safe/safe-speed.o
+                0x00000000080037d0                vSpeedCheckPhase
+ .text.vSpeedCheckFrequenciesNotEqual
+                0x00000000080038c4       0x9c Src/safe/safe-speed.o
+                0x00000000080038c4                vSpeedCheckFrequenciesNotEqual
+ .text.vSpeedCheckQuittStuckat
+                0x0000000008003960       0xc4 Src/safe/safe-speed.o
+                0x0000000008003960                vSpeedCheckQuittStuckat
+ .text.vDirectionProcess
+                0x0000000008003a24      0x118 Src/safe/safe-speed.o
+                0x0000000008003a24                vDirectionProcess
+ .text.vSpeedExecute
+                0x0000000008003b3c     0x1db0 Src/safe/safe-speed.o
+                0x0000000008003b3c                vSpeedExecute
+ .text.vEmkExecute
+                0x00000000080058ec      0x228 Src/safe/safe-standstill.o
+                0x00000000080058ec                vEmkExecute
+ .text.Reset_Handler
+                0x0000000008005b14       0x50 Startup/startup_stm32g473cetx.o
+                0x0000000008005b14                Reset_Handler
+ .text.__libc_init_array
+                0x0000000008005b64       0x48 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+                0x0000000008005b64                __libc_init_array
+ .text.memcmp   0x0000000008005bac       0x1c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+                0x0000000008005bac                memcmp
+ .text.memcpy   0x0000000008005bc8       0x1c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000008005bc8                memcpy
+ .text.memset   0x0000000008005be4       0x10 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+                0x0000000008005be4                memset
+ *(.glue_7)
+ .glue_7        0x0000000008005bf4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008005bf4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008005bf4        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008005bf4        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008005bf4                _init
+ .init          0x0000000008005bf8        0x8 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008005c00        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008005c00                _fini
+ .fini          0x0000000008005c04        0x8 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008005c0c                . = ALIGN (0x4)
+                0x0000000008005c0c                _etext = .
+
+.vfp11_veneer   0x0000000008005c0c        0x0
+ .vfp11_veneer  0x0000000008005c0c        0x0 linker stubs
+
+.v4_bx          0x0000000008005c0c        0x0
+ .v4_bx         0x0000000008005c0c        0x0 linker stubs
+
+.iplt           0x0000000008005c0c        0x0
+ .iplt          0x0000000008005c0c        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008005c0c      0x268
+                0x0000000008005c0c                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.rui8gEds
+                0x0000000008005c0c       0x10 Src/pdsv-diagnostics.o
+                0x0000000008005c0c                rui8gEds
+ .rodata.carrui32RamInitPattern
+                0x0000000008005c1c      0x100 Src/pdsv-memorytest.o
+                0x0000000008005c1c                carrui32RamInitPattern
+ .rodata.carrui32RamPattern
+                0x0000000008005d1c      0x100 Src/pdsv-memorytest.o
+                0x0000000008005d1c                carrui32RamPattern
+ .rodata.pvSubroutines100ms
+                0x0000000008005e1c       0x14 Src/scheduler.o
+                0x0000000008005e1c                pvSubroutines100ms
+ .rodata.pvSubroutines10ms
+                0x0000000008005e30       0x10 Src/scheduler.o
+                0x0000000008005e30                pvSubroutines10ms
+ .rodata.pvSubroutines1ms
+                0x0000000008005e40       0x34 Src/scheduler.o
+                0x0000000008005e40                pvSubroutines1ms
+                0x0000000008005e74                . = ALIGN (0x4)
+
+.rel.dyn        0x0000000008005e74        0x0
+ .rel.iplt      0x0000000008005e74        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.xodata         0x0000000008005e74        0x0
+                0x0000000008005e74                . = ALIGN (0x4)
+ *(.xodata)
+ *(.xodata*)
+                0x0000000008005e74                . = ALIGN (0x4)
+
+.ARM.extab      0x0000000008005e74        0x0
+                0x0000000008005e74                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008005e74                . = ALIGN (0x4)
+
+.ARM            0x0000000008005e74        0x0
+                0x0000000008005e74                . = ALIGN (0x4)
+                0x0000000008005e74                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008005e74                __exidx_end = .
+                0x0000000008005e74                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008005e74        0x0
+                0x0000000008005e74                . = ALIGN (0x4)
+                0x0000000008005e74                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008005e74                PROVIDE (__preinit_array_end = .)
+                0x0000000008005e74                . = ALIGN (0x4)
+
+.init_array     0x0000000008005e74        0x4
+                0x0000000008005e74                . = ALIGN (0x4)
+                0x0000000008005e74                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008005e74        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x0000000008005e78                PROVIDE (__init_array_end = .)
+                0x0000000008005e78                . = ALIGN (0x4)
+
+.fini_array     0x0000000008005e78        0x4
+                0x0000000008005e78                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008005e78        0x4 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008005e7c                . = ALIGN (0x4)
+
+.copy           0x0000000008010000        0x4
+                0x0000000008010000                . = ALIGN (0x4)
+                0x0000000008010000                _scopy = .
+ *(.copy)
+ .copy          0x0000000008010000        0x4 Src/pdsv-memorytest.o
+ *(.copy*)
+                0x0000000008010004                . = ALIGN (0x4)
+                0x0000000008010004                _ecopy = .
+                0x0000000008005e7c                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x3c load address 0x0000000008005e7c
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.pxgFdcanMessageRam
+                0x0000000020000000        0x4 Src/pdsv-fdcan.o
+                0x0000000020000000                pxgFdcanMessageRam
+ .data.ui16TimerCanTX0.8869
+                0x0000000020000004        0x2 Src/pdsv-fdcan.o
+ .data.ui16TimerCanTX1.8870
+                0x0000000020000006        0x2 Src/pdsv-fdcan.o
+ .data.ui8CounterSlowdownCanTX0.8868
+                0x0000000020000008        0x1 Src/pdsv-fdcan.o
+ *fill*         0x0000000020000009        0x3 
+ .data.xgIpkRx  0x000000002000000c       0x14 Src/pdsv-ipk.o
+                0x000000002000000c                xgIpkRx
+ .data.xgIpkTx  0x0000000020000020       0x14 Src/pdsv-ipk.o
+                0x0000000020000020                xgIpkTx
+ .data.pui32OriginalAddress
+                0x0000000020000034        0x4 Src/pdsv-memorytest.o
+                0x0000000020000034                pui32OriginalAddress
+ .data.ui32MinValue.8805
+                0x0000000020000038        0x4 Src/pdsv-voltage.o
+                0x000000002000003c                . = ALIGN (0x4)
+                0x000000002000003c                _edata = .
+
+.igot.plt       0x000000002000003c        0x0 load address 0x0000000008005eb8
+ .igot.plt      0x000000002000003c        0x0 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x000000002000003c                . = ALIGN (0x4)
+
+.bss            0x000000002000003c      0x580 load address 0x0000000008005eb8
+                0x000000002000003c                _sbss = .
+                0x000000002000003c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000003c       0x1c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.pui8CurrentIpkBuffer.8900
+                0x0000000020000058        0x4 Src/pdsv-diagnostics.o
+ .bss.ui8BufferSelector.8902
+                0x000000002000005c        0x1 Src/pdsv-diagnostics.o
+ .bss.ui8IndexEds.8901
+                0x000000002000005d        0x1 Src/pdsv-diagnostics.o
+ .bss.ui8StateAcknowledgeErrors.8888
+                0x000000002000005e        0x1 Src/pdsv-diagnostics.o
+ *fill*         0x000000002000005f        0x1 
+ .bss.ui32LastRelevantState.8867
+                0x0000000020000060        0x4 Src/pdsv-fdcan.o
+ .bss.ui8CircularTailIndex
+                0x0000000020000064        0x1 Src/pdsv-fdcan.o
+ .bss.ui8gCircularHeadIndex
+                0x0000000020000065        0x1 Src/pdsv-fdcan.o
+                0x0000000020000065                ui8gCircularHeadIndex
+ *fill*         0x0000000020000066        0x2 
+ .bss.ui32CaptureCurrentMeasurement.8965
+                0x0000000020000068        0x4 Src/pdsv-hardware.o
+ .bss.ui8AsynchronousIndex.8970
+                0x000000002000006c        0x1 Src/pdsv-hardware.o
+ .bss.ui8gHardwareTimerEvent
+                0x000000002000006d        0x1 Src/pdsv-hardware.o
+                0x000000002000006d                ui8gHardwareTimerEvent
+ .bss.ui8gHardwareUartSwapRequested
+                0x000000002000006e        0x1 Src/pdsv-hardware.o
+                0x000000002000006e                ui8gHardwareUartSwapRequested
+ *fill*         0x000000002000006f        0x1 
+ .bss.ui16PortError.8761
+                0x0000000020000070        0x2 Src/pdsv-inputs.o
+ .bss.ui8InputStateMachine.8802
+                0x0000000020000072        0x1 Src/pdsv-inputs.o
+ .bss.ui8PortTestState.8763
+                0x0000000020000073        0x1 Src/pdsv-inputs.o
+ .bss.ui8TestCounter.8788
+                0x0000000020000074        0x1 Src/pdsv-inputs.o
+ *fill*         0x0000000020000075        0x3 
+ .bss.xInputs.8801
+                0x0000000020000078        0xc Src/pdsv-inputs.o
+ .bss.ui16DncoIndex0.8906
+                0x0000000020000084        0x2 Src/pdsv-parameters.o
+ .bss.ui16SamplesCount.8807
+                0x0000000020000086        0x2 Src/pdsv-voltage.o
+ .bss.ui32FirstWireVoltageAverage.8785
+                0x0000000020000088        0x4 Src/pdsv-voltage.o
+ .bss.ui32MaxValue.8806
+                0x000000002000008c        0x4 Src/pdsv-voltage.o
+ .bss.ui32SecondWireVoltageAverage.8786
+                0x0000000020000090        0x4 Src/pdsv-voltage.o
+ .bss.ui8CaptureTime.8784
+                0x0000000020000094        0x1 Src/pdsv-voltage.o
+ .bss.ui8Delay.8783
+                0x0000000020000095        0x1 Src/pdsv-voltage.o
+ .bss.ui8State.8782
+                0x0000000020000096        0x1 Src/pdsv-voltage.o
+ .bss.ui8CounterTwoHandTimeout.8983
+                0x0000000020000097        0x1 Src/safe/safe-circuits.o
+ .bss.ui8TwohandState.8982
+                0x0000000020000098        0x1 Src/safe/safe-circuits.o
+ *fill*         0x0000000020000099        0x1 
+ .bss.ui16PreviousDirectionRight.8883
+                0x000000002000009a        0x2 Src/safe/safe-speed.o
+ .bss.ui32AckMinDelay
+                0x000000002000009c        0x4 Src/safe/safe-speed.o
+ .bss.ui32AcknowledgeSoftTimer
+                0x00000000200000a0        0x4 Src/safe/safe-speed.o
+ .bss.ui32FrequencyRegion.9027
+                0x00000000200000a4        0x4 Src/safe/safe-speed.o
+ .bss.ui32MoveFrequencyRegionUp.9028
+                0x00000000200000a8        0x4 Src/safe/safe-speed.o
+ .bss.ui32MovefrequencyRegionDown.9029
+                0x00000000200000ac        0x4 Src/safe/safe-speed.o
+ .bss.ui8AckModeState
+                0x00000000200000b0        0x1 Src/safe/safe-speed.o
+ .bss.ui8OperatingMode
+                0x00000000200000b1        0x1 Src/safe/safe-speed.o
+ .bss.ui8TimeDivider10ms.9026
+                0x00000000200000b2        0x1 Src/safe/safe-speed.o
+ *fill*         0x00000000200000b3        0x1 
+ .bss.ui32EmkReferenceCounter.8764
+                0x00000000200000b4        0x4 Src/safe/safe-standstill.o
+ .bss.ui8SignaleLevel.8765
+                0x00000000200000b8        0x1 Src/safe/safe-standstill.o
+ *(COMMON)
+ *fill*         0x00000000200000b9        0x3 
+ COMMON         0x00000000200000bc       0xcf Src/pdsv-diagnostics.o
+                0x00000000200000bc                xgErrorCounters
+                0x00000000200000e4                xgRuntimeState
+                0x0000000020000180                xgHardwareErrors
+ *fill*         0x000000002000018b        0x1 
+ COMMON         0x000000002000018c       0x58 Src/pdsv-fdcan.o
+                0x000000002000018c                xgCanMessageRx
+                0x00000000200001d4                xgImkRx
+                0x00000000200001dc                xgImkTx
+ COMMON         0x00000000200001e4        0x2 Src/pdsv-inputs.o
+                0x00000000200001e4                ui16gSampledInputs
+ *fill*         0x00000000200001e6        0x2 
+ COMMON         0x00000000200001e8       0x50 Src/pdsv-ipk.o
+                0x00000000200001e8                rui8gLatchedIpkBufferMaster
+                0x00000000200001fc                rui8gHardwareIpkBufferIn
+                0x0000000020000210                rui8gLatchedIpkBufferSlave
+                0x0000000020000224                rui8gHardwareIpkBufferOut
+ COMMON         0x0000000020000238      0x348 Src/pdsv-parameters.o
+                0x0000000020000238                xgRuntimeParameters
+                0x00000000200002bc                xgRuntimeParametersCopied
+                0x0000000020000340                xgReceivedParameters
+ COMMON         0x0000000020000580        0x8 Src/pdsv-voltage.o
+                0x0000000020000580                pxgAdcHardwareBuffer
+                0x0000000020000584                pxgAdcSoftwareBuffer
+ COMMON         0x0000000020000588       0x14 Src/scheduler.o
+                0x0000000020000588                xSchedulerBlock
+ COMMON         0x000000002000059c       0x20 Src/safe/safe-circuits.o
+                0x000000002000059c                xgSafetyCircuitManagement
+                0x00000000200005bc                . = ALIGN (0x4)
+                0x00000000200005bc                _ebss = .
+                0x00000000200005bc                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x00000000200005bc      0x604 load address 0x0000000008005eb8
+                0x00000000200005c0                . = ALIGN (0x8)
+ *fill*         0x00000000200005bc        0x4 
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x00000000200007c0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200005c0      0x200 
+                0x0000000020000bc0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200007c0      0x400 
+                0x0000000020000bc0                . = ALIGN (0x8)
+
+.ramvars        0x0000000020000bc0      0x210 load address 0x0000000008005eb8
+                0x0000000020000bc0                . = ALIGN (0x4)
+                0x0000000020000bc0                _startRamVars = .
+ *(.ramvars)
+ .ramvars       0x0000000020000bc0       0x20 Src/pdsv-memorytest.o
+                0x0000000020000bc0                pui32RamCell
+                0x0000000020000bc4                pui32BaseRamCell
+                0x0000000020000bc8                ui32PatternIndex
+                0x0000000020000bcc                ui32RamCellBackup
+                0x0000000020000bd0                ui32RamCellBackupInverted
+                0x0000000020000bd4                ui32RamCell2ndBackup
+                0x0000000020000bd8                ui32RamCell2ndBackupInverted
+                0x0000000020000bdc                ui32PatternSelector
+ .ramvars       0x0000000020000be0      0x1f0 Src/pdsv-voltage.o
+                0x0000000020000be0                rxgAdcData
+                0x0000000020000dd0                . = ALIGN (0x4)
+                0x0000000020000dd0                _endRamVars = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x34 Src/helpers.o
+ .ARM.attributes
+                0x0000000000000086       0x34 Src/main.o
+ .ARM.attributes
+                0x00000000000000ba       0x34 Src/pdsv-diagnostics.o
+ .ARM.attributes
+                0x00000000000000ee       0x34 Src/pdsv-fdcan.o
+ .ARM.attributes
+                0x0000000000000122       0x34 Src/pdsv-hardware.o
+ .ARM.attributes
+                0x0000000000000156       0x34 Src/pdsv-inputs.o
+ .ARM.attributes
+                0x000000000000018a       0x34 Src/pdsv-ipk.o
+ .ARM.attributes
+                0x00000000000001be       0x34 Src/pdsv-memorytest.o
+ .ARM.attributes
+                0x00000000000001f2       0x34 Src/pdsv-parameters.o
+ .ARM.attributes
+                0x0000000000000226       0x34 Src/pdsv-voltage.o
+ .ARM.attributes
+                0x000000000000025a       0x34 Src/scheduler.o
+ .ARM.attributes
+                0x000000000000028e       0x34 Src/safe/safe-circuits.o
+ .ARM.attributes
+                0x00000000000002c2       0x34 Src/safe/safe-speed.o
+ .ARM.attributes
+                0x00000000000002f6       0x34 Src/safe/safe-standstill.o
+ .ARM.attributes
+                0x000000000000032a       0x21 Startup/startup_stm32g473cetx.o
+ .ARM.attributes
+                0x000000000000034b       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000037f       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000000000003b3       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000003e7       0x34 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000041b       0x1e c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(pdsv.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.comment        0x0000000000000000       0x53
+ .comment       0x0000000000000000       0x53 Src/helpers.o
+                                         0x54 (size before relaxing)
+ .comment       0x0000000000000053       0x54 Src/main.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-diagnostics.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-fdcan.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-hardware.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-inputs.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-ipk.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-memorytest.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-parameters.o
+ .comment       0x0000000000000053       0x54 Src/pdsv-voltage.o
+ .comment       0x0000000000000053       0x54 Src/scheduler.o
+ .comment       0x0000000000000053       0x54 Src/safe/safe-circuits.o
+ .comment       0x0000000000000053       0x54 Src/safe/safe-speed.o
+ .comment       0x0000000000000053       0x54 Src/safe/safe-standstill.o
+
+.debug_frame    0x0000000000000000       0xa0
+ .debug_frame   0x0000000000000000       0x2c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x000000000000002c       0x2c c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000058       0x28 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000080       0x20 c:/st/stm32cubeide_1.6.1/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_1.5.0.202011040924/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a(lib_a-memset.o)

@@ -1,0 +1,4 @@
+pdsv-ipk.c:34:6:vIpkClearLatchBuffers	0	static
+pdsv-ipk.c:45:6:vIpkSaveLatchBuffer	8	static
+pdsv-ipk.c:57:6:vIpkCheckTimeout	0	static
+pdsv-ipk.c:72:6:vIpkSwapBuffers	12	static,ignoring_inline_asm

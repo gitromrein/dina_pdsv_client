@@ -1,0 +1,7 @@
+pdsv-parameters.c:121:6:vParameterCheckComplete	4	static
+pdsv-parameters.c:137:6:vParameterCheckExchangedChecksum	0	static
+pdsv-parameters.c:283:6:vParameterCheckDesignerChecksum	8	static
+pdsv-parameters.c:308:6:vParameterCheckCopies	8	static
+pdsv-parameters.c:332:6:vParameterCalculateDncoFrequencies	16	static
+pdsv-parameters.c:164:6:vParameterCheckPlausibility	48	static
+pdsv-parameters.c:33:6:vLoadDebugParameters	16	static

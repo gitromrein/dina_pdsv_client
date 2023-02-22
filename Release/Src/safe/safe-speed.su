@@ -1,0 +1,8 @@
+safe-speed.c:94:6:vSpeedCheckPhase	4	static
+safe-speed.c:166:6:vDirectionCheckRotationSwitch	8	static
+safe-speed.c:196:6:vSpeedCheckFrequenciesNotEqual	4	static
+safe-speed.c:232:6:vSpeedCheck1500Hz	0	static
+safe-speed.c:254:6:vSpeedCheckQuittStuckat	8	static
+safe-speed.c:1233:6:vAccelerationProcess	0	static
+safe-speed.c:1243:6:vDirectionProcess	16	static
+safe-speed.c:1401:6:vSpeedExecute	72	static,ignoring_inline_asm

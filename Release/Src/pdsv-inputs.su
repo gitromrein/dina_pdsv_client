@@ -1,0 +1,4 @@
+pdsv-inputs.c:42:6:vInputCheckPort	8	static
+pdsv-inputs.c:133:13:vInputCheckAsynchronous	0	static
+pdsv-inputs.c:153:13:vInputCheckDynamic	4	static
+pdsv-inputs.c:234:6:vInputSample	16	static

@@ -1,0 +1,4 @@
+safe-circuits.c:32:6:vSafetyCircuitResetManagement	0	static
+safe-circuits.c:42:6:vSafetyCircuitCheckCrosscircuit	12	static
+safe-circuits.c:161:6:vSafetyCircuitExecute	20	static
+safe-circuits.c:554:6:vTwohandCircuitExecute	8	static

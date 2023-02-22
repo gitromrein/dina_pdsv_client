@@ -1,0 +1,2 @@
+safe-standstill.c:41:6:vEmkCheckSingle	0	static
+safe-standstill.c:71:6:vEmkExecute	8	static
