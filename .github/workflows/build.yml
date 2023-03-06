@@ -5,7 +5,8 @@ on:
       - main
       - master
       - develop      
-      - feature/*      
+      - feature/*
+      - svn/*
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
