@@ -11,13 +11,14 @@
  *
  */
 
+
 #ifndef CONFIG_H_
 #define CONFIG_H_
 
 /* General Includes */
 #include <stdint.h>
 #include <stdio.h>
-#include <stm32g473xx.h>
+#include <stm32g4xx.h>
 #include <string.h>
 
 #define SIZEOF(a) (sizeof(a)/sizeof(*a))
